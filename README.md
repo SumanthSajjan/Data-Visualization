@@ -2,7 +2,7 @@
 
 ### Channelling Hans!
 
-**Part-1 Channelling Hans:
+**Part-1 Channelling Hans:**
 
 The bubble plot shows the countries of the world described by GDP and Global Competitive index mapped to x and y axis position. The population of each country is mapped to the bubble area.
 
@@ -14,7 +14,7 @@ The bubble plot shows the countries of the world described by GDP and Global Com
 
 * The year drop down box allows to view data for a particular year.
 
-**Part-2 Extending Hans:
+**Part-2 Extending Hans:**
 
 * The country drop down box can be used to select the name of a particular country which allows the journey of a country to be seen as a trace of positions. 
 Please Note: The year drop down box value must be set to 'All Years'. 
